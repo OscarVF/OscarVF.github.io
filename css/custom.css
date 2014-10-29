@@ -10,3 +10,9 @@
   margin-bottom: 0;
   text-transform: uppercase;
 }
+
+.page-headercolor {
+  padding-bottom: 9.5px;
+  margin: 42px 0 21px;
+  border-bottom: 1px solid #007196;
+}
