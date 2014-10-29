@@ -1,3 +1,5 @@
+//Hook up the tweet display
+
 $(document).ready(function() {
 						   
 	$("#countdown").countdown({
